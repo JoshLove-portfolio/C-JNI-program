@@ -1,0 +1,6 @@
+1234           Frank          Mammal         Sealion 0 1
+3265          Joseph          Mammal             Bat 0 0
+1357            Bill       Oviparous           Goose 12 0
+6543           Peter       Oviparous         Pelican 20 0
+3216            Xena          Mammal           Whale 0 1
+973           Molly       Oviparous         pelican 20 0
